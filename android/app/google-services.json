@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183192484349",
+    "project_id": "shiftx-32fc1",
+    "storage_bucket": "shiftx-32fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183192484349:android:9e61e9af6cb2edc6754194",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183192484349-oi6egpbnrvvg8lvqrmf9duqnkijgrdn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0-7wkFfE94HX4I0s3pJvQyV5k2FEXoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183192484349-oi6egpbnrvvg8lvqrmf9duqnkijgrdn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
